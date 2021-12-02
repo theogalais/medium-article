@@ -33,7 +33,7 @@ h2{
 a{
   text-decoration: none;
   text-align:center;
-  background-image:linear-gradient(to top, rgb(251, 255, 0), rgb(3, 255, 91));
+  background-image:linear-gradient(to top, rgb(251, 255, 0), rgba(3, 255, 91, 0.911));
 }
 
 a:hover {
